@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">เสียง</string>
+    <string name="btn_Resource">ทรัพยากร</string>
+    <string name="btn_assets">สินทรัพย์</string>
+    <string name="btn_sdcard">เอสดีการ์ด</string>
+    <string name="btn_internet">อินเตอร์เน็ต</string>
+</resources>

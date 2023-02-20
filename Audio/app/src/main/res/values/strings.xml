@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Audio</string>
+    <string name="btn_Resource">Resource</string>
+    <string name="btn_assets">Assets</string>
+    <string name="btn_sdcard">SDCARD</string>
+    <string name="btn_internet">Internet</string>
+</resources>
